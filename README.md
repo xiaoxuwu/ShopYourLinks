@@ -29,7 +29,7 @@ DRYP stack (Django, React, Yarn, PostgreSQL)
 - Jennifer Xu
 - Yun Xu
 
-### 2 modules
+## 2 modules
 - syl-api (https://github.com/xiaoxuwu/syl-api/): all backend logic
 - syl-frontend (https://github.com/xiaoxuwu/syl-frontend): all frontend logic
 
