@@ -18,7 +18,7 @@ DRYP stack (Django, React, Yarn, PostgreSQL)
 
 - **Docker/Docker-Compose**: infrastructure and containerization
 - **Python 3**
-- **Nginx ** serving static files
+- **Nginx**: serving static files
 - Plotting library TBD  (plotting)
 
 ### 1.2 Maintainers
@@ -29,7 +29,8 @@ DRYP stack (Django, React, Yarn, PostgreSQL)
 - Jennifer Xu
 - Yun Xu
 
-## 2 modules
+## 2 Modules
+
 - syl-api (https://github.com/xiaoxuwu/syl-api/): all backend logic
 - syl-frontend (https://github.com/xiaoxuwu/syl-frontend): all frontend logic
 
