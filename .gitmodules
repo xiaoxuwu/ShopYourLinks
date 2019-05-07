@@ -1,0 +1,6 @@
+[submodule "syl-api"]
+	path = syl-api
+	url = https://github.com/xiaoxuwu/syl-api.git
+[submodule "syl-frontend"]
+	path = syl-frontend
+	url = https://github.com/xiaoxuwu/syl-frontend.git
