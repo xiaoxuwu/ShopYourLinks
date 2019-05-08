@@ -34,4 +34,12 @@ DRYP stack (Django, React, Yarn, PostgreSQL)
 - syl-api (https://github.com/xiaoxuwu/syl-api/): all backend logic
 - syl-frontend (https://github.com/xiaoxuwu/syl-frontend): all frontend logic
 
-Please refer to the respective respositories for build and run instructions.
+Please refer to the respective respositories for individual build and run instructions.
+
+## 3 Makefile Commands
+
+`make build[-api|-frontend]` build containers (ask Carter)
+
+`make run-dev[-api|-frontend]` start containers with dev settings
+
+
