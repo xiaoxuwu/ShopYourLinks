@@ -7,7 +7,7 @@ build: build-frontend build-backend
 build-frontend:
 	$(MAKE) -C syl-frontend
 
-build-backend:
+build-api:
 	$(MAKE) -C syl-api
 
 run-dev-frontend:

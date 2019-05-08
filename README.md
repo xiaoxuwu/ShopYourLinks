@@ -1,4 +1,4 @@
-# Shop-Your-Links
+# ShopYourLinks
 
 ## 1 Introduction
 
